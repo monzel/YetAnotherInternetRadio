@@ -2,11 +2,11 @@
   {
     "name": "WDR 4",
     "stream": "https://wdr-wdr4-live.icecastssl.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3",
-    "image": "https://github.com/monzel/radiostations/raw/refs/heads/main/images/wdr4.bin"
+    "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/wdr4.h"
   },
   {
     "name": "TheRockFM",
     "stream": "https://mediaworks.streamguys1.com/rock_net_icy",
-    "image": "https://github.com/monzel/radiostations/raw/refs/heads/main/images/TheRockFM.bin"
+    "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/therockfm.h"
   }
 ]
