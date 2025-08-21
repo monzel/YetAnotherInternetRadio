@@ -13,5 +13,10 @@
     "name": "1Live",
     "stream": "https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
     "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/1live.bin"
+  },
+  {
+    "name": "100Prozent NL Feest",
+    "stream": "https://stream.100p.nl/web01_mp3",
+    "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/100nlfeest.bin"
   }
 ]
