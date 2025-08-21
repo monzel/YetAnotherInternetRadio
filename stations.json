@@ -21,7 +21,7 @@
   },
   {
     "name": "HarmonyFM",
-    "stream": "http://streams.harmonyfm.de/harmonyfm/aac/hqlivestream.m3u",
+    "stream": "http://mp3.harmonyfm.de/harmonyfm/hqlivestream.aac",
     "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/harmonyfm.bin"
   },
   {
@@ -33,5 +33,15 @@
     "name": "Radius921",
     "stream": "http://141.99.154.10:8002/;",
     "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/radius921.bin"
+  },
+  {
+    "name": "AutoLifeAzerbaijan",
+    "stream": "https://radio.autoliferadio.com:8005/radio",
+    "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/autolife.bin"
+  },
+  {
+    "name": "SlamFM",
+    "stream": "https://stream.slam.nl/",
+    "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/slamfm.bin"
   }
 ]
