@@ -18,5 +18,15 @@
     "name": "100Prozent NL Feest",
     "stream": "https://stream.100p.nl/web01_mp3",
     "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/100nlfeest.bin"
+  },
+  {
+    "name": "HarmonyFM",
+    "stream": "http://mp3.harmonyfm.de/harmonyfm/hqlivestream.aac",
+    "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/harmonyfm.bin"
+  },
+  {
+    "name": "80s80s",
+    "stream": "https://streams.80s80s.de/80s80sDAB/mp3-192/streams.80s80s.de/",
+    "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/80s80s.bin"
   }
 ]
