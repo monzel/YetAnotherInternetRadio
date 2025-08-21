@@ -1,7 +1,7 @@
 [
   {
     "name": "WDR4",
-    "stream": "https://wdr-wdr4-live.icecastssl.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3",
+    "stream": "http://icecast.wdr.de/wdr/wdr4/suedwestfalen/mp3/128/stream.mp3",
     "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/wdr4.bin"
   },
   {
@@ -43,5 +43,20 @@
     "name": "SlamFM",
     "stream": "https://stream.slam.nl/",
     "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/slamfm.bin"
+  },
+  {
+    "name": "Bayern3",
+    "stream": "https://streams.br.de/bayern3_2.m3u",
+    "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/bayern3.bin"
+  },
+  {
+    "name": "RadioNürburgring",
+    "stream": "https://audiotainment-sw.streamabc.net/atsw-nbr-aacplus-64-1078103",
+    "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/radionuerburgring.bin"
+  },
+  {
+    "name": "Bayern1",
+    "stream": "https://streams.br.de/bayern1nbopf_2.m3u",
+    "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/bayern1.bin"
   }
 ]
