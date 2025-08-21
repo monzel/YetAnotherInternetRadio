@@ -1,6 +1,6 @@
 [
   {
-    "name": "WDR 4",
+    "name": "WDR4",
     "stream": "https://wdr-wdr4-live.icecastssl.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3",
     "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/wdr4.bin"
   },
@@ -28,5 +28,10 @@
     "name": "80s80s",
     "stream": "https://streams.80s80s.de/80s80sDAB/mp3-192/streams.80s80s.de/",
     "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/80s80s.bin"
+  },
+  {
+    "name": "Radius921",
+    "stream": "http://141.99.154.10:8002/;",
+    "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/radius921.bin"
   }
 ]
