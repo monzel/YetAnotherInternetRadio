@@ -21,7 +21,7 @@
   },
   {
     "name": "HarmonyFM",
-    "stream": "http://mp3.harmonyfm.de/harmonyfm/hqlivestream.aac",
+    "stream": "http://streams.harmonyfm.de/harmonyfm/aac/hqlivestream.m3u",
     "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/harmonyfm.bin"
   },
   {
