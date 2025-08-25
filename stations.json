@@ -2,61 +2,61 @@
   {
     "name": "WDR4",
     "stream": "http://icecast.wdr.de/wdr/wdr4/suedwestfalen/mp3/128/stream.mp3",
-    "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/wdr4.bin"
+    "image": "https://raw.githubusercontent.com/monzel/YetAnotherInternetRadio/refs/heads/main/images/wdr4.bin"
   },
   {
     "name": "TheRockFM",
     "stream": "https://mediaworks.streamguys1.com/rock_net_icy",
-    "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/therockfm.bin"
+    "image": "https://raw.githubusercontent.com/monzel/YetAnotherInternetRadio/refs/heads/main/images/therockfm.bin"
   },
   {
     "name": "1Live",
     "stream": "https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
-    "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/1live.bin"
+    "image": "https://raw.githubusercontent.com/monzel/YetAnotherInternetRadio/refs/heads/main/images/1live.bin"
   },
   {
     "name": "100Prozent NL Feest",
     "stream": "https://stream.100p.nl/web01_mp3",
-    "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/100nlfeest.bin"
+    "image": "https://raw.githubusercontent.com/monzel/YetAnotherInternetRadio/refs/heads/main/images/100nlfeest.bin"
   },
   {
     "name": "HarmonyFM",
     "stream": "http://mp3.harmonyfm.de/harmonyfm/hqlivestream.aac",
-    "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/harmonyfm.bin"
+    "image": "https://raw.githubusercontent.com/monzel/YetAnotherInternetRadio/refs/heads/main/images/harmonyfm.bin"
   },
   {
     "name": "80s80s",
     "stream": "https://streams.80s80s.de/80s80sDAB/mp3-192/streams.80s80s.de/",
-    "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/80s80s.bin"
+    "image": "https://raw.githubusercontent.com/monzel/YetAnotherInternetRadio/refs/heads/main/images/80s80s.bin"
   },
   {
     "name": "Radius921",
     "stream": "http://141.99.154.10:8002/;",
-    "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/radius921.bin"
+    "image": "https://raw.githubusercontent.com/monzel/YetAnotherInternetRadio/refs/heads/main/images/radius921.bin"
   },
   {
     "name": "AutoLifeAzerbaijan",
     "stream": "https://radio.autoliferadio.com:8005/radio",
-    "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/autolife.bin"
+    "image": "https://raw.githubusercontent.com/monzel/YetAnotherInternetRadio/refs/heads/main/images/autolife.bin"
   },
   {
     "name": "SlamFM",
     "stream": "https://stream.slam.nl/",
-    "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/slamfm.bin"
+    "image": "https://raw.githubusercontent.com/monzel/YetAnotherInternetRadio/refs/heads/main/images/slamfm.bin"
   },
   {
     "name": "Bayern3",
     "stream": "https://streams.br.de/bayern3_2.m3u",
-    "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/bayern3.bin"
+    "image": "https://raw.githubusercontent.com/monzel/YetAnotherInternetRadio/refs/heads/main/images/bayern3.bin"
   },
   {
     "name": "RadioNürburgring",
     "stream": "https://audiotainment-sw.streamabc.net/atsw-nbr-aacplus-64-1078103",
-    "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/radionuerburgring.bin"
+    "image": "https://raw.githubusercontent.com/monzel/YetAnotherInternetRadio/refs/heads/main/images/radionuerburgring.bin"
   },
   {
     "name": "Bayern1",
     "stream": "https://streams.br.de/bayern1nbopf_2.m3u",
-    "image": "https://raw.githubusercontent.com/monzel/radiostations/refs/heads/main/images/bayern1.bin"
+    "image": "https://raw.githubusercontent.com/monzel/YetAnotherInternetRadio/refs/heads/main/images/bayern1.bin"
   }
 ]
