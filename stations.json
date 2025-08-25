@@ -6,7 +6,7 @@
   },
   {
     "name": "TheRockFM",
-    "stream": "https://mediaworks.streamguys1.com/rock_net_icy",
+    "stream": "https://digitalstreams.mediaworks.nz/rock_net_icy",
     "image": "https://raw.githubusercontent.com/monzel/YetAnotherInternetRadio/refs/heads/main/images/therockfm.bin"
   },
   {
@@ -58,10 +58,5 @@
     "name": "Bayern1",
     "stream": "https://streams.br.de/bayern1nbopf_2.m3u",
     "image": "https://raw.githubusercontent.com/monzel/YetAnotherInternetRadio/refs/heads/main/images/bayern1.bin"
-  },
-  {
-    "name": "TheRockFMTEST",
-    "stream": "https://mediaworks.streamguys1.com/rock_net/playlist.m3u8",
-    "image": "https://raw.githubusercontent.com/monzel/YetAnotherInternetRadio/refs/heads/main/images/therockfm.bin"
   }
 ]
