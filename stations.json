@@ -58,5 +58,11 @@
     "name": "Bayern1",
     "stream": "https://streams.br.de/bayern1nbopf_2.m3u",
     "image": "https://raw.githubusercontent.com/monzel/YetAnotherInternetRadio/refs/heads/main/images/bayern1.bin"
+  },
+  {
+    "name": "WSM650AMNashville",
+    "stream": "https://ais-sa8.cdnstream1.com/3666_64.mp3",
+    "image": "https://raw.githubusercontent.com/monzel/YetAnotherInternetRadio/refs/heads/main/images/wsm650amnashville.bin"
   }
+  
 ]
