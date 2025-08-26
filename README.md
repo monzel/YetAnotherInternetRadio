@@ -14,7 +14,7 @@ The logos are in a _.bin_ format. I used this really cool tool to convert normal
 Of course, the JSON can be changed to a different one.
 
 ## Hardware
-- ESP32 Wrover Dev Cam (Microcontroller)  
+- ESP32 Wrover Dev Cam (Microcontroller with PSRAM)  
 - PCM5102MK 2.0 (Digital Audio Converter)  
 - KY-040 (Rotary Encoder)  
 - 0.96" 4-pin OLED Display  
