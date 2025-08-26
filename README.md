@@ -30,6 +30,8 @@ I used a broken _Sangean WR-11_ where the AUX still worked.
 
 ![s-l500](https://github.com/user-attachments/assets/2187e7cc-1f20-4c8a-bca6-7f615675cf18)
 
+I added the _RadioConnector.stl_. You can print it using a 3D-Printer and use it to physically connect the KY-040 (Rotary Encoder) to the knob of the radio.
+
 ## Electronics
 When using this setup and connecting the step-down converter, there is audible noise in the sound (ground loop).  
 This can be fixed with a _Ground Loop Isolator_ connected to the AUX cable.  
