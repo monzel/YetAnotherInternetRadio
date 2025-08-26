@@ -22,7 +22,8 @@ Of course, the JSON can be changed to a different one.
 - 10 kΩ resistor  
 - DC-DC Buck Step-Down Converter  
 - Cables, of course  
-- An old radio with integrated amplifier  
+- An old radio with integrated amplifier
+- Ground Loop Isolator
 
 Every old radio with a turning knob and an AUX input can work.  
 I used a broken _Sangean WR-11_ where the AUX still worked.  
