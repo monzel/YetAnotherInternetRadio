@@ -63,6 +63,16 @@
     "name": "WSM650AMNashville",
     "stream": "https://ais-sa8.cdnstream1.com/3666_64.mp3",
     "image": "https://raw.githubusercontent.com/monzel/YetAnotherInternetRadio/refs/heads/main/images/wsm650amnashville.bin"
+  },
+  {
+    "name": "RadioBob",
+    "stream": "https://regiocast.streamabc.net/regc-boblivenational-mp3-192-4076554",
+    "image": "https://raw.githubusercontent.com/monzel/YetAnotherInternetRadio/refs/heads/main/images/radiobob.bin"
+  },
+  {
+    "name": "MDRKultur",
+    "stream": "https://avw.mdr.de/streams/284310-0_mp3_high.m3u",
+    "image": "https://raw.githubusercontent.com/monzel/YetAnotherInternetRadio/refs/heads/main/images/mdrkultur.bin"
   }
   
 ]
