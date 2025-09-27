@@ -6,7 +6,7 @@
   },
   {
     "name": "TheRockFM",
-    "stream": "https://digitalstreams.mediaworks.nz/rock_net_icy",
+    "stream": "https://digitalstreams.mediaworks.nz/rock_net/playlist.m3u8",
     "image": "https://raw.githubusercontent.com/monzel/YetAnotherInternetRadio/refs/heads/main/images/therockfm.bin"
   },
   {
