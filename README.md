@@ -10,7 +10,7 @@ That’s it, no more features, pretty simple. :)
 ## Stations
 On every startup, the stations are fetched via the _stations.json_ in this repository.  
 In this JSON file, there is the name (for overview purposes), the streaming link, and a link to the logo of the station in the _/images_ folder.  
-The logos are in a _.bin_ format. I used this really cool tool to convert normal images (_.jpeg, .png, …_) into _.bin_: https://javl.github.io/image2cpp/  
+The logos are in a 128 x 64 pixel _.bin_ format. I used this really cool tool to convert normal images (_.jpeg, .png, …_) into _.bin_: https://javl.github.io/image2cpp/  
 Of course, the JSON can be changed to a different one.
 
 ## Hardware
