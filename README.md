@@ -7,6 +7,8 @@ The LED blinks as long as it is trying to establish a connection. After that, it
 Once the connection is successful, the knob can be used to go forward or backward through the stations.  
 That’s it, no more features, pretty simple. :)
 
+I used https://github.com/schreibfaul1/ESP32-audioI2S for Audio.
+
 ## Stations
 On every startup, the stations are fetched via the _stations.json_ in this repository.  
 In this JSON file, there is the name (for overview purposes), the streaming link, and a link to the logo of the station in the _/images_ folder.  
