@@ -6,7 +6,7 @@
   },
   {
     "name": "TheRockFM",
-    "stream": "https://mediaworks.streamguys1.com/rock-AKL-low/playlist.m3u8",
+    "stream": "https://digitalstreams.mediaworks.nz:443/rock_net/playlist.m3u8",
     "image": "https://raw.githubusercontent.com/monzel/YetAnotherInternetRadio/refs/heads/main/images/therockfm.bin"
   },
   {
