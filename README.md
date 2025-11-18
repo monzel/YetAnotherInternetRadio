@@ -9,6 +9,14 @@ That’s it, no more features, pretty simple. :)
 
 I used https://github.com/schreibfaul1/ESP32-audioI2S for Audio.
 
+## How To:
+- Build the Hardware as shown below.
+- Create your own "stations.json" if you want different stations.
+- Upload it somewhere (for example on github)
+- Change the link in the "Radio.ino" to your own link.
+- Change the pinout so it matches your build.
+- Flash the "Radio.ino" onto the ESP32.
+
 ## Stations
 On every startup, the stations are fetched via the _stations.json_ in this repository.  
 In this JSON file, there is the name (for overview purposes), the streaming link, and a link to the logo of the station in the _/images_ folder.  
