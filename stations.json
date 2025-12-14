@@ -73,6 +73,13 @@
     "name": "MDRKultur",
     "stream": "https://avw.mdr.de/streams/284310-0_mp3_high.m3u",
     "image": "https://raw.githubusercontent.com/monzel/YetAnotherInternetRadio/refs/heads/main/images/mdrkultur.bin"
+  },
+  {
+    "name": "RadioMK",
+    "stream": "https://radiomk--di--nacs-ais-lgc--08--cdn.cast.addradio.de/radiomk/live/mp3/high",
+    "image": "https://raw.githubusercontent.com/monzel/YetAnotherInternetRadio/refs/heads/main/images/radiomk.bin"
   }
+
+  
   
 ]
