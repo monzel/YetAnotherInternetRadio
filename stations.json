@@ -78,6 +78,11 @@
     "name": "RadioMK",
     "stream": "https://radiomk--di--nacs-ais-lgc--08--cdn.cast.addradio.de/radiomk/live/mp3/high",
     "image": "https://raw.githubusercontent.com/monzel/YetAnotherInternetRadio/refs/heads/main/images/radiomk.bin"
+  },
+  {
+    "name": "ALEXRadio",
+    "stream": "https://alex-radio.rosebud-media.de:8443/alex-radio",
+    "image": "https://raw.githubusercontent.com/monzel/YetAnotherInternetRadio/refs/heads/main/images/alexradio.bin"
   }
 
   
