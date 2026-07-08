@@ -76,7 +76,7 @@
   },
   {
     "name": "RadioMK",
-    "stream": "https://radiomk--di--nacs-ais-lgc--08--cdn.cast.addradio.de/radiomk/live/mp3/high",
+    "stream": "https://radiomk.stream51.radiohost.de/radiomk-live_mp3-192",
     "image": "https://raw.githubusercontent.com/monzel/YetAnotherInternetRadio/refs/heads/main/images/radiomk.bin"
   },
   {
